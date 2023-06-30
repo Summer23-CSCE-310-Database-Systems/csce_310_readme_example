@@ -39,11 +39,7 @@ An RSpec test suite is available and can be ran using:
 
 Run the following code in Powershell if using windows or the terminal using Linux/Mac
 
-  `cd your_github_here`
-
-  `docker run --rm -it --volume "$(pwd):/rails_app" -e DATABASE_USER=test_app -e DATABASE_PASSWORD=test_password -p 3000:3000 dmartinez05/ruby_rails_postgresql:latest`
-
-  `cd rails_app`
+ <Put instructions here>
 
 Install the app
 
@@ -63,12 +59,7 @@ The application can be seen using a browser and navigating to http://localhost:3
 ** Add instructions about how to deploy to Heroku
 
 
-## CI/CD ##
-
-TBD
-
 ## Support ##
 
 Admins looking for support should first look at the application help page.
-Users looking for help seek out assistance from the customer.
 
